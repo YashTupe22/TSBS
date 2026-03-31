@@ -58,7 +58,7 @@ export default function Footer() {
             </h4>
             <div className="flex gap-4 justify-center md:justify-start">
               <a
-                href="https://instagram.com/blacksheepbistro"
+                href="https://www.instagram.com/bsbpanaji/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="Instagram"
